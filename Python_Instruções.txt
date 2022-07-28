@@ -1,0 +1,33 @@
+//Banco de dados
+A versão de developer existe apenas no ambiente da Spassu
+
+//Hoje o script db_Oracle pode rodar no ambiente de desenvolvimento 
+e cria as tabelas do projeto.
+
+//881 para configurar projeto e liberar acesso dos projetos
+.npmrc
+.gitconfig
+
+//Arquivo exlusivo petrobrás
+pipeline.yml  - para build e deploy
+
+//Para conseguir rodar a aplicação <> <> <> <>
+//Depois de criar ambiente virtual e instalar os requirements
+
+Ter mudado de tsv. para dst.(pasta load_envs.py linha 30) 
+
+Ir no arquivo configmap-dsv.env ... alterar rota para LOGS_FOLDER=../app-logs 
+
+add configurations(na parte de cima)
+
+clicar no + (esquerda)... escolher python
+
+selecionar arquivo application.py no projeto
+
+apply e ok
+
+//Vair abrir uma url localhost adicionar ao final dela "/apidocs"
+
+
+
+
